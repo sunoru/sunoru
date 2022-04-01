@@ -1,6 +1,6 @@
 ## ☮️<img style="height:1em" src="https://github.com/sunoru/sunoru/raw/main/assets/ally.svg">
 
-I'm an Open Source Lover from Zhejiang.
+An Open Source Lover from Zhejiang.
 
 ## About Me
 
