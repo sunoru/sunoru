@@ -7,7 +7,7 @@ I'm an Open Source Lover from Zhejiang.
 - 🐻 Studying as a PhD Student at Brown University.
 
 - ❤️ Not very skilled but I enjoy coding. Most of my projects are in
-<code><img height="20" src="https://github.com/JuliaLang/julia-logo-graphics/raw/master/images/julia-logo-dark.svg"></code>
+<code><img height="20" src="https://github.com/sunoru/sunoru/raw/main/assets/julia.svg"></code>
 and
 <code><img height="20" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png"></code>.
 [Here](https://github.com/sunoru/sunoru/blob/main/projects.md) is a list.
