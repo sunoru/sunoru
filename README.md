@@ -20,8 +20,8 @@ and
 
 - 🔑 I am currently working on:
 
-  <a href="https://github.com/Wild-Area/VsRecorder.jl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wild-Area&repo=VsRecorder.jl&theme=radical&show_owner=true" />
+  <a href="https://github.com/sunoru/vgc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=vgc&theme=radical" />
   </a>
 
 <a href="https://twitter.com/sunoru_sidw">
