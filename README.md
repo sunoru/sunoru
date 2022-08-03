@@ -16,12 +16,12 @@ and
 
 - 🌊 Former member of [ZJU QSC](https://github.com/QSCTech).
 
-- 💬 Ask me about anything annonymously at [https://ask.sunoru.com](https://ask.sunoru.com).
+- 💬 Ask me about anything anonymously at [https://ask.sunoru.com](https://ask.sunoru.com).
 
 - 🔑 I am currently working on:
 
-  <a href="https://github.com/sunoru/vgc">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=vgc&theme=radical" />
+  <a href="https://github.com/sunoru/NodeCall.jl">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=NodeCall.jl&theme=radical" />
   </a>
 
 <a href="https://twitter.com/sunoru_sidw">
