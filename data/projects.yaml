@@ -1,0 +1,88 @@
+julia-general:
+  title: General Julia Packages
+  projects:
+    - repo: JuliaRandom/RandomNumbers.jl
+      show-owner: true
+    - repo: JuliaRandom/Random123.jl
+      show-owner: true
+    - SimpleI18n.jl
+    - Webviews.jl
+    - NodeCall.jl
+    - VSL.jl
+    - PkgMirrors.jl
+    - LocalMemoize.jl
+
+molecular-simulations:
+  title: Molecular Modeling & Simulations
+  projects:
+    - LennardJones.jl
+    - MolecularDynamicsIntegrators.jl
+    - MosimoBase.jl
+    - MosimoMD.jl
+    - SmartMonteCarlo.jl
+
+game:
+  title: Game Related
+  projects:
+    - vgc
+    - pokemon_tournament
+    - repo: Wild-Area/VsRecorder.jl
+      show-owner: true
+    - repo: Wild-Area/VsRecorderBase.jl
+      show-owner: true
+    - repo: Wild-Area/vs-recorder-data
+      show-owner: true
+    - splatoon-privas
+
+pmo:
+  title: Pokémon Only in Shanghai
+  projects:
+    - SHPMO/pokemon_only
+    - SHPMO/pokemon-only-2018
+    - SHPMO/pokemon-only-2019
+    - SHPMO/pokemon-only-2021
+    - SHPMO/pokemon-only-2022
+
+machine-learning:
+  title: Machine Learning
+  projects:
+    - Xtructure
+    - Seer.jl
+
+computational-biology:
+  title: Computational Biology
+  projects:
+    - LinkageDisequilibrium.jl
+    - IDPSequences.jl
+
+presentations:
+  title: Presentations
+  projects:
+    - repo: JuliaCN/MeetUpMaterials
+      url: https://github.com/JuliaCN/MeetUpMaterials/tree/master/Beijing2018/sunoru
+      show-owner: true
+      ignore-stars: true
+
+other:
+  title: Other
+  projects:
+    - finite-groups
+    - jlnode
+    - julia-icc-travis
+    - julia-mirror
+    - kanjic2j
+
+participated:
+  title: Participated
+  projects:
+    - repo: spacemeowx2/s3si.ts
+      show-owner: true
+      ignore-stars: true
+    - repo: rabbit-digger/rabbit-digger-pro
+      show-owner: true
+      ignore-stars: true
+    - repo: pixel27/Tesseract.jl
+      show-owner: true
+      ignore-stars: true
+    - repo: PBO
+      ignore-stars: true

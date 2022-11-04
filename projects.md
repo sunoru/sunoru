@@ -1,103 +1,155 @@
 # スノル's Projects
-<details>
-  <summary>General Julia Packages</summary>
-  <a href="https://github.com/JuliaRandom/RandomNumbers.jl">
+
+| Projects | Stars |
+|:-:|:-:|
+| 38 | 238 |
+
+<details id="julia-general">
+<summary>General Julia Packages</summary>
+  <a href="https://github.com/JuliaRandom/RandomNumbers.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaRandom&repo=RandomNumbers.jl&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/JuliaRandom/Random123.jl">
+  <a href="https://github.com/JuliaRandom/Random123.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaRandom&repo=Random123.jl&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/sunoru/SimpleI18n.jl">
+  <a href="https://github.com/sunoru/SimpleI18n.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=SimpleI18n.jl&theme=radical" />
   </a>
-  <a href="https://github.com/sunoru/NodeCall.jl">
+  <a href="https://github.com/sunoru/Webviews.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Webviews.jl&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/NodeCall.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=NodeCall.jl&theme=radical" />
   </a>
-  <a href="https://github.com/sunoru/VSL.jl">
+  <a href="https://github.com/sunoru/VSL.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=VSL.jl&theme=radical" />
   </a>
-  <a href="https://github.com/sunoru/PkgMirrors.jl">
+  <a href="https://github.com/sunoru/PkgMirrors.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=PkgMirrors.jl&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/LocalMemoize.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=LocalMemoize.jl&theme=radical" />
   </a>
 </details>
 
-<details>
-  <summary>Molecular Simulations</summary>
-  <a href="https://github.com/sunoru/LennardJones.jl">
+<details id="molecular-simulations">
+<summary>Molecular Modeling & Simulations</summary>
+  <a href="https://github.com/sunoru/LennardJones.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=LennardJones.jl&theme=radical" />
   </a>
-  <a href="https://github.com/sunoru/MolecularDynamicsIntegrators.jl">
+  <a href="https://github.com/sunoru/MolecularDynamicsIntegrators.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=MolecularDynamicsIntegrators.jl&theme=radical" />
   </a>
-  <a href="https://github.com/sunoru/MosimoBase.jl">
+  <a href="https://github.com/sunoru/MosimoBase.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=MosimoBase.jl&theme=radical" />
   </a>
-  <a href="https://github.com/sunoru/SmartMonteCarlo.jl">
+  <a href="https://github.com/sunoru/MosimoMD.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=MosimoMD.jl&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/SmartMonteCarlo.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=SmartMonteCarlo.jl&theme=radical" />
   </a>
 </details>
 
-<details>
-  <summary>Game Related</summary>
-  <a href="https://github.com/sunoru/pokemon_tournament">
+<details id="game">
+<summary>Game Related</summary>
+  <a href="https://github.com/sunoru/vgc" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=vgc&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/pokemon_tournament" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=pokemon_tournament&theme=radical" />
   </a>
-  <a href="https://github.com/Wild-Area/VsRecorder.jl">
+  <a href="https://github.com/Wild-Area/VsRecorder.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wild-Area&repo=VsRecorder.jl&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/Wild-Area/VsRecorderBase.jl">
+  <a href="https://github.com/Wild-Area/VsRecorderBase.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wild-Area&repo=VsRecorderBase.jl&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/Wild-Area/vs-recorder-data">
+  <a href="https://github.com/Wild-Area/vs-recorder-data" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wild-Area&repo=vs-recorder-data&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/sunoru/splatoon-privas">
+  <a href="https://github.com/sunoru/splatoon-privas" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=splatoon-privas&theme=radical" />
   </a>
 </details>
 
-<details>
-  <summary>Pokémon Only in Shanghai</summary>
-  <a href="https://github.com/SHPMO/pokemon_only">
+<details id="pmo">
+<summary>Pokémon Only in Shanghai</summary>
+  <a href="https://github.com/SHPMO/pokemon_only" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHPMO&repo=pokemon_only&theme=radical" />
   </a>
-  <a href="https://github.com/SHPMO/pokemon-only-2018">
+  <a href="https://github.com/SHPMO/pokemon-only-2018" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHPMO&repo=pokemon-only-2018&theme=radical" />
   </a>
-  <a href="https://github.com/SHPMO/pokemon-only-2019">
+  <a href="https://github.com/SHPMO/pokemon-only-2019" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHPMO&repo=pokemon-only-2019&theme=radical" />
   </a>
-  <a href="https://github.com/SHPMO/pokemon-only-2021">
+  <a href="https://github.com/SHPMO/pokemon-only-2021" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHPMO&repo=pokemon-only-2021&theme=radical" />
+  </a>
+  <a href="https://github.com/SHPMO/pokemon-only-2022" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHPMO&repo=pokemon-only-2022&theme=radical" />
   </a>
 </details>
 
-<details>
-  <summary>Machine Learning</summary>
-  <a href="https://github.com/sunoru/Xtructure">
+<details id="machine-learning">
+<summary>Machine Learning</summary>
+  <a href="https://github.com/sunoru/Xtructure" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Xtructure&theme=radical" />
   </a>
-  <a href="https://github.com/sunoru/Seer.jl">
+  <a href="https://github.com/sunoru/Seer.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Seer.jl&theme=radical" />
   </a>
 </details>
 
-<details>
-  <summary>Computational Biology</summary>
-  <a href="https://github.com/sunoru/LinkageDisequilibrium.jl">
+<details id="computational-biology">
+<summary>Computational Biology</summary>
+  <a href="https://github.com/sunoru/LinkageDisequilibrium.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=LinkageDisequilibrium.jl&theme=radical" />
   </a>
-  <a href="https://github.com/sunoru/IDPSequences.jl">
+  <a href="https://github.com/sunoru/IDPSequences.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=IDPSequences.jl&theme=radical" />
   </a>
 </details>
 
-<details>
-  <summary>Other</summary>
-  <a href="https://github.com/sunoru/finite-groups">
+<details id="presentations">
+<summary>Presentations</summary>
+  <a href="https://github.com/JuliaCN/MeetUpMaterials/tree/master/Beijing2018/sunoru" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaCN&repo=MeetUpMaterials&theme=radical&show_owner=true" />
+  </a>
+</details>
+
+<details id="other">
+<summary>Other</summary>
+  <a href="https://github.com/sunoru/finite-groups" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=finite-groups&theme=radical" />
   </a>
-  <a href="https://github.com/sunoru/jlnode">
+  <a href="https://github.com/sunoru/jlnode" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=jlnode&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/julia-icc-travis" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=julia-icc-travis&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/julia-mirror" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=julia-mirror&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/kanjic2j" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=kanjic2j&theme=radical" />
+  </a>
+</details>
+
+<details id="participated">
+<summary>Participated</summary>
+  <a href="https://github.com/spacemeowx2/s3si.ts" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spacemeowx2&repo=s3si.ts&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/rabbit-digger/rabbit-digger-pro" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabbit-digger&repo=rabbit-digger-pro&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/pixel27/Tesseract.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pixel27&repo=Tesseract.jl&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/sunoru/PBO" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=PBO&theme=radical" />
   </a>
 </details>
