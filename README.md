@@ -1,4 +1,4 @@
-## ☮️<img style="height:1em" src="https://github.com/sunoru/sunoru/raw/main/assets/ally.svg">
+## ️<img style="height:1em" src="https://github.com/sunoru/sunoru/raw/main/assets/anarcho_pacifism.gif"><img style="height:1em" src="https://github.com/sunoru/sunoru/raw/main/assets/ally.svg">
 
 An Open Source Lover from Zhejiang.
 
