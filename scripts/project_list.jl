@@ -17,7 +17,7 @@ function get_star(repo)
     JSON.parse(data)["stargazers_count"]
 end
 
-function main(verbose=true)
+function main(verbose=true, skip_stars=false)
 
 count = 0
 stars = 0
@@ -36,7 +36,7 @@ for subdata ∈ values(data)
             project["repo"], get(project, "ignore-stars", false)
         end
         count += 1
-        star = ignored ? 0 : get_star(repo)
+        star = ignored || skip_stars ? 0 : get_star(repo)
         stars += star
         if verbose
             println("$count: $repo - $star")
@@ -55,8 +55,8 @@ open(ProjectListFile, "w") do fo
 
     for (key, subdata) ∈ data
         title = subdata["title"]
-        println(fo, """\n<details id="$key">
-  <summary>$title</summary>""")
+        println(fo, """\n<details id="$key" open>
+  <summary><h2 style="display:inline-block">$title</h2></summary>""")
         for project in subdata["projects"]
             project = project isa String ? Dict("repo"=>project) : project
             repo = project["repo"]
@@ -76,5 +76,5 @@ end
 end
 
 if abspath(PROGRAM_FILE) == @__FILE__
-    main("--silent" ∉ ARGS)
+    main("--silent" ∉ ARGS, "--skip-stars" ∈ ARGS)
 end

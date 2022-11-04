@@ -4,8 +4,8 @@
 |:-:|:-:|
 | 38 | 238 |
 
-<details id="julia-general">
-<summary>General Julia Packages</summary>
+<details id="julia-general" open>
+<summary><h2 style="display:inline-block">General Julia Packages</h2></summary>
   <a href="https://github.com/JuliaRandom/RandomNumbers.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaRandom&repo=RandomNumbers.jl&theme=radical&show_owner=true" />
   </a>
@@ -32,8 +32,8 @@
   </a>
 </details>
 
-<details id="molecular-simulations">
-<summary>Molecular Modeling & Simulations</summary>
+<details id="molecular-simulations" open>
+<summary><h2 style="display:inline-block">Molecular Modeling & Simulations</h2></summary>
   <a href="https://github.com/sunoru/LennardJones.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=LennardJones.jl&theme=radical" />
   </a>
@@ -51,8 +51,8 @@
   </a>
 </details>
 
-<details id="game">
-<summary>Game Related</summary>
+<details id="game" open>
+<summary><h2 style="display:inline-block">Game Related</h2></summary>
   <a href="https://github.com/sunoru/vgc" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=vgc&theme=radical" />
   </a>
@@ -73,8 +73,8 @@
   </a>
 </details>
 
-<details id="pmo">
-<summary>Pokémon Only in Shanghai</summary>
+<details id="pmo" open>
+<summary><h2 style="display:inline-block">Pokémon Only in Shanghai</h2></summary>
   <a href="https://github.com/SHPMO/pokemon_only" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHPMO&repo=pokemon_only&theme=radical" />
   </a>
@@ -92,8 +92,8 @@
   </a>
 </details>
 
-<details id="machine-learning">
-<summary>Machine Learning</summary>
+<details id="machine-learning" open>
+<summary><h2 style="display:inline-block">Machine Learning</h2></summary>
   <a href="https://github.com/sunoru/Xtructure" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Xtructure&theme=radical" />
   </a>
@@ -102,8 +102,8 @@
   </a>
 </details>
 
-<details id="computational-biology">
-<summary>Computational Biology</summary>
+<details id="computational-biology" open>
+<summary><h2 style="display:inline-block">Computational Biology</h2></summary>
   <a href="https://github.com/sunoru/LinkageDisequilibrium.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=LinkageDisequilibrium.jl&theme=radical" />
   </a>
@@ -112,15 +112,15 @@
   </a>
 </details>
 
-<details id="presentations">
-<summary>Presentations</summary>
+<details id="presentations" open>
+<summary><h2 style="display:inline-block">Presentations</h2></summary>
   <a href="https://github.com/JuliaCN/MeetUpMaterials/tree/master/Beijing2018/sunoru" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaCN&repo=MeetUpMaterials&theme=radical&show_owner=true" />
   </a>
 </details>
 
-<details id="other">
-<summary>Other</summary>
+<details id="other" open>
+<summary><h2 style="display:inline-block">Other</h2></summary>
   <a href="https://github.com/sunoru/finite-groups" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=finite-groups&theme=radical" />
   </a>
@@ -138,8 +138,8 @@
   </a>
 </details>
 
-<details id="participated">
-<summary>Participated</summary>
+<details id="participated" open>
+<summary><h2 style="display:inline-block">Participated</h2></summary>
   <a href="https://github.com/spacemeowx2/s3si.ts" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spacemeowx2&repo=s3si.ts&theme=radical&show_owner=true" />
   </a>
