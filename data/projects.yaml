@@ -55,6 +55,11 @@ computational-biology:
     - LinkageDisequilibrium.jl
     - IDPSequences.jl
 
+visualization:
+  title: Visualization
+  projects:
+    - VisChemSpace
+
 presentations:
   title: Presentations
   projects:

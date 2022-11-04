@@ -2,7 +2,7 @@
 
 | Projects | Stars |
 |:-:|:-:|
-| 38 | 238 |
+| 39 | 239 |
 
 <details id="julia-general" open>
 <summary><h2 style="display:inline-block">General Julia Packages</h2></summary>
@@ -109,6 +109,13 @@
   </a>
   <a href="https://github.com/sunoru/IDPSequences.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=IDPSequences.jl&theme=radical" />
+  </a>
+</details>
+
+<details id="visualization" open>
+<summary><h2 style="display:inline-block">Visualization</h2></summary>
+  <a href="https://github.com/sunoru/VisChemSpace" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=VisChemSpace&theme=radical" />
   </a>
 </details>
 
