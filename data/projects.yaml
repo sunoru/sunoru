@@ -73,6 +73,7 @@ other:
   projects:
     - finite-groups
     - jlnode
+    - libnode
     - julia-icc-travis
     - julia-mirror
     - kanjic2j

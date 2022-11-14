@@ -2,7 +2,7 @@
 
 | Projects | Stars |
 |:-:|:-:|
-| 39 | 239 |
+| 40 | 239 |
 
 <details id="julia-general" open>
 <summary><h2 style="display:inline-block">General Julia Packages</h2></summary>
@@ -133,6 +133,9 @@
   </a>
   <a href="https://github.com/sunoru/jlnode" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=jlnode&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/libnode" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=libnode&theme=radical" />
   </a>
   <a href="https://github.com/sunoru/julia-icc-travis" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=julia-icc-travis&theme=radical" />
