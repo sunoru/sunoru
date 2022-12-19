@@ -1,6 +1,6 @@
 ## ️<img style="height:1em;width:1em" src="https://github.com/sunoru/sunoru/raw/main/assets/anarcho_pacifism.gif"><img style="height:1em" src="https://github.com/sunoru/sunoru/raw/main/assets/ally.svg">
 
-An Open Source Lover from Zhejiang. Pronouns: [he/any](https://pronouns.page/@sunoru).
+An Open Source Lover from Zhejiang. [he/any](https://pronouns.page/@sunoru).
 
 ## About Me
 
