@@ -51,6 +51,33 @@
   </a>
 </details>
 
+<details id="machine-learning" open>
+<summary><h2 style="display:inline-block">Machine Learning</h2></summary>
+  <a href="https://github.com/sunoru/Xtructure" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Xtructure&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/Seer.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Seer.jl&theme=radical" />
+  </a>
+</details>
+
+<details id="computational-biology" open>
+<summary><h2 style="display:inline-block">Computational Biology</h2></summary>
+  <a href="https://github.com/sunoru/LinkageDisequilibrium.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=LinkageDisequilibrium.jl&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/IDPSequences.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=IDPSequences.jl&theme=radical" />
+  </a>
+</details>
+
+<details id="visualization" open>
+<summary><h2 style="display:inline-block">Visualization</h2></summary>
+  <a href="https://github.com/sunoru/VisChemSpace" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=VisChemSpace&theme=radical" />
+  </a>
+</details>
+
 <details id="game" open>
 <summary><h2 style="display:inline-block">Game Related</h2></summary>
   <a href="https://github.com/sunoru/vgc" target="_blank">
@@ -89,33 +116,6 @@
   </a>
   <a href="https://github.com/SHPMO/pokemon-only-2022" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHPMO&repo=pokemon-only-2022&theme=radical" />
-  </a>
-</details>
-
-<details id="machine-learning" open>
-<summary><h2 style="display:inline-block">Machine Learning</h2></summary>
-  <a href="https://github.com/sunoru/Xtructure" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Xtructure&theme=radical" />
-  </a>
-  <a href="https://github.com/sunoru/Seer.jl" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Seer.jl&theme=radical" />
-  </a>
-</details>
-
-<details id="computational-biology" open>
-<summary><h2 style="display:inline-block">Computational Biology</h2></summary>
-  <a href="https://github.com/sunoru/LinkageDisequilibrium.jl" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=LinkageDisequilibrium.jl&theme=radical" />
-  </a>
-  <a href="https://github.com/sunoru/IDPSequences.jl" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=IDPSequences.jl&theme=radical" />
-  </a>
-</details>
-
-<details id="visualization" open>
-<summary><h2 style="display:inline-block">Visualization</h2></summary>
-  <a href="https://github.com/sunoru/VisChemSpace" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=VisChemSpace&theme=radical" />
   </a>
 </details>
 

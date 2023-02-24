@@ -21,6 +21,23 @@ molecular-simulations:
     - MosimoMD.jl
     - SmartMonteCarlo.jl
 
+machine-learning:
+  title: Machine Learning
+  projects:
+    - Xtructure
+    - Seer.jl
+
+computational-biology:
+  title: Computational Biology
+  projects:
+    - LinkageDisequilibrium.jl
+    - IDPSequences.jl
+
+visualization:
+  title: Visualization
+  projects:
+    - VisChemSpace
+
 game:
   title: Game Related
   projects:
@@ -42,23 +59,6 @@ pmo:
     - SHPMO/pokemon-only-2019
     - SHPMO/pokemon-only-2021
     - SHPMO/pokemon-only-2022
-
-machine-learning:
-  title: Machine Learning
-  projects:
-    - Xtructure
-    - Seer.jl
-
-computational-biology:
-  title: Computational Biology
-  projects:
-    - LinkageDisequilibrium.jl
-    - IDPSequences.jl
-
-visualization:
-  title: Visualization
-  projects:
-    - VisChemSpace
 
 presentations:
   title: Presentations
