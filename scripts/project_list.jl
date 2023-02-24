@@ -1,3 +1,5 @@
+#!/usr/bin/env julia
+
 using HTTP, JSON, YAML, OrderedCollections
 
 const ProjectListData = joinpath(@__DIR__, "..", "data", "projects.yaml")
