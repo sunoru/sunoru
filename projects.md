@@ -2,7 +2,7 @@
 
 | Projects | Stars |
 |:-:|:-:|
-| 40 | 261 |
+| 43 | 264 |
 
 <details id="julia-general" open>
 <summary><h2 style="display:inline-block">General Julia Packages</h2></summary>
@@ -12,14 +12,23 @@
   <a href="https://github.com/JuliaRandom/Random123.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaRandom&repo=Random123.jl&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/sunoru/SimpleI18n.jl" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=SimpleI18n.jl&theme=radical" />
+  <a href="https://github.com/sunoru/AESNI.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=AESNI.jl&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/FormatPreservingEncryption.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=FormatPreservingEncryption.jl&theme=radical" />
   </a>
   <a href="https://github.com/sunoru/Webviews.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Webviews.jl&theme=radical" />
   </a>
   <a href="https://github.com/sunoru/NodeCall.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=NodeCall.jl&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/Kirei.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Kirei.jl&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/SimpleI18n.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=SimpleI18n.jl&theme=radical" />
   </a>
   <a href="https://github.com/sunoru/VSL.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=VSL.jl&theme=radical" />

@@ -5,9 +5,13 @@ julia-general:
       show-owner: true
     - repo: JuliaRandom/Random123.jl
       show-owner: true
-    - SimpleI18n.jl
+    - AESNI.jl
+    - FormatPreservingEncryption.jl
+    # - LazyRandomPermutations.jl
     - Webviews.jl
     - NodeCall.jl
+    - Kirei.jl
+    - SimpleI18n.jl
     - VSL.jl
     - PkgMirrors.jl
     - LocalMemoize.jl

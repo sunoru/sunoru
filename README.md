@@ -22,11 +22,11 @@ and
 
 - 🔑 Recently I have been working on:
 
-  <a href="https://github.com/sunoru/Webviews.jl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Webviews.jl&theme=radical" />
+  <a href="https://github.com/sunoru/AESNI.jl">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=AESNI.jl&theme=radical" />
   </a>
-  <a href="https://github.com/sunoru/NodeCall.jl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=NodeCall.jl&theme=radical" />
+  <a href="https://github.com/sunoru/FormatPreservingEncryption.jl">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=FormatPreservingEncryption.jl&theme=radical" />
   </a>
 
 <a href="https://twitter.com/sunoru_sidw">
