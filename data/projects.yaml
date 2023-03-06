@@ -24,6 +24,7 @@ molecular-simulations:
     - MosimoBase.jl
     - MosimoMD.jl
     - SmartMonteCarlo.jl
+    - GeodesicPathways.jl
 
 machine-learning:
   title: Machine Learning

@@ -2,7 +2,7 @@
 
 | Projects | Stars |
 |:-:|:-:|
-| 43 | 264 |
+| 44 | 264 |
 
 <details id="julia-general" open>
 <summary><h2 style="display:inline-block">General Julia Packages</h2></summary>
@@ -57,6 +57,9 @@
   </a>
   <a href="https://github.com/sunoru/SmartMonteCarlo.jl" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=SmartMonteCarlo.jl&theme=radical" />
+  </a>
+  <a href="https://github.com/sunoru/GeodesicPathways.jl" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=GeodesicPathways.jl&theme=radical" />
   </a>
 </details>
 
