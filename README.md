@@ -29,6 +29,9 @@ and
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Kirei.jl&theme=radical" />
   </a>
 
+<a rel="me" href="https://hub.moon.moe/@s">
+  <img align="right" alt="Mastodon" width="20px" src="https://github.com/sunoru/sunoru/raw/main/assets/mastodon.svg" />
+</a>
 <a href="https://twitter.com/sunoru_sidw">
   <img align="right" alt="Twitter" width="20px" src="https://github.com/sunoru/sunoru/raw/main/assets/twitter.svg" />
 </a>
