@@ -1,6 +1,6 @@
-## ️<img style="height:1em;width:1em" src="https://github.com/sunoru/sunoru/raw/main/assets/anarcho_pacifism.gif"><img style="height:1em" src="https://github.com/sunoru/sunoru/raw/main/assets/ally.svg">
+## ️<img style="height:1em;width:1em;display:inline-block;" src="https://github.com/sunoru/sunoru/raw/main/assets/anarcho_pacifism.gif"><img style="height:1em;display:inline-block;" src="https://github.com/sunoru/sunoru/raw/main/assets/ally.svg">
 
-An Open Source Lover from Zhejiang. [he/any](https://pronouns.page/@sunoru).
+An Open Source Lover from Zhejiang. [he/any](https://pronouns.sunoru.com).
 
 ### Open to Work in the US as a Computational Chemist or Scientific Software Developer
 
@@ -22,12 +22,7 @@ and
 
 - 🔑 Recently I have been working on:
 
-  <a href="https://github.com/sunoru/FormatPreservingEncryption.jl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=FormatPreservingEncryption.jl&theme=radical" />
-  </a>
-  <a href="https://github.com/sunoru/Kirei.jl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=Kirei.jl&theme=radical" />
-  </a>
+  My PhD thesis, and some projects that has yet to be published.
 
 <a rel="me" href="https://hub.moon.moe/@s">
   <img align="right" alt="Mastodon" width="20px" src="https://github.com/sunoru/sunoru/raw/main/assets/mastodon.svg" />

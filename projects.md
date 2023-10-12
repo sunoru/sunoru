@@ -2,7 +2,7 @@
 
 | Projects | Stars |
 |:-:|:-:|
-| 44 | 268 |
+| 44 | 287 |
 
 <details id="julia-general" open>
 <summary><h2 style="display:inline-block">General Julia Packages</h2></summary>
