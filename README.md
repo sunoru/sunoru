@@ -22,7 +22,7 @@ and
 
 - 🔑 Recently I have been working on:
 
-  My PhD thesis, and some projects that has yet to be published.
+  My PhD thesis, and some projects that have yet to be published.
 
 <a rel="me" href="https://hub.moon.moe/@s">
   <img align="right" alt="Mastodon" width="20px" src="https://github.com/sunoru/sunoru/raw/main/assets/mastodon.svg" />
