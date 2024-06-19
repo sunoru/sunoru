@@ -2,8 +2,6 @@
 
 An Open Source Lover from Zhejiang. [he/any](https://pronouns.sunoru.com).
 
-### Open to Work in the US as a Computational Chemist or Scientific Software Developer
-
 ## About Me
 
 - 🐻 Studying as a PhD Student at Brown University.
