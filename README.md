@@ -4,7 +4,7 @@ An Open Source Lover from Zhejiang. [he/any](https://pronouns.sunoru.com).
 
 ## About Me
 
-- 🐻 Studying as a PhD Student at Brown University.
+- 🐻 PhD in Chemistry from Brown University.
 
 - ❤️ Not very skilled but I enjoy coding. Most of my projects are in
 <code><img height="20" src="https://github.com/sunoru/sunoru/raw/main/assets/julia.svg"></code>
@@ -20,7 +20,7 @@ and
 
 - 🔑 Recently I have been working on:
 
-  My PhD thesis, and some projects that have yet to be published.
+  Some projects that have yet to be published.
 
 <a rel="me" href="https://hub.moon.moe/@s">
   <img align="right" alt="Mastodon" width="20px" src="https://github.com/sunoru/sunoru/raw/main/assets/mastodon.svg" />
