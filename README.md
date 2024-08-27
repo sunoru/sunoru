@@ -1,6 +1,6 @@
 ## ️<img style="height:1em;width:1em;display:inline-block;" src="https://github.com/sunoru/sunoru/raw/main/assets/anarcho_pacifism.gif"><img style="height:1em;display:inline-block;" src="https://github.com/sunoru/sunoru/raw/main/assets/ally.svg">
 
-An Open Source Lover from Zhejiang. [he/any](https://pronouns.sunoru.com).
+An Open Source Lover from Zhejiang. [Any pronouns](https://pronouns.sunoru.com).
 
 ## About Me
 
@@ -20,7 +20,11 @@ and
 
 - 🔑 Recently I have been working on:
 
-  Some projects that have yet to be published.
+  <a href="https://github.com/sunoru/vgc" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=vgc&theme=radical" />
+  </a>
+
+  and some projects that have yet to be published.
 
 <a rel="me" href="https://hub.moon.moe/@s">
   <img align="right" alt="Mastodon" width="20px" src="https://github.com/sunoru/sunoru/raw/main/assets/mastodon.svg" />
