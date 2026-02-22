@@ -7,7 +7,8 @@ An Open Source Lover from Zhejiang. [Any pronouns](https://pronouns.sunoru.com).
 - 🐻 PhD in Chemistry from Brown University.
 
 - ❤️ Not very skilled but I enjoy coding. Most of my projects are in
-<code><img height="20" src="https://github.com/sunoru/sunoru/raw/main/assets/julia.svg"></code>
+<code><img height="20" src="https://github.com/sunoru/sunoru/raw/main/assets/julia.svg"></code>,
+<code><img height="20" src="https://github.com/github/explore/raw/main/topics/rust/rust.png"></code>
 and
 <code><img height="20" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png"></code>.
 [Here](https://github.com/sunoru/sunoru/blob/main/projects.md) is a list.
@@ -18,13 +19,8 @@ and
 
 - 💬 Ask me about anything anonymously at [https://ask.sunoru.com](https://ask.sunoru.com).
 
-- 🔑 Recently I have been working on:
-
-  <a href="https://github.com/sunoru/vgc" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunoru&repo=vgc&theme=radical" />
-  </a>
-
-  and some projects that have yet to be published.
+- 🔑 I'm using GitHub only for work now. Any new open-source projects will be hosted on
+[Codeberg](https://codeberg.org/sunoru) or [my own forgejo](https://roost.sunoru.com/sunoru).
 
 <a rel="me" href="https://hub.moon.moe/@s">
   <img align="right" alt="Mastodon" width="20px" src="https://github.com/sunoru/sunoru/raw/main/assets/mastodon.svg" />
